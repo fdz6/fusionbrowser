@@ -1,5 +1,5 @@
 # Fusion Browser
-A simple lightweight browser created in Visual Studio & mobile built from Xamarin.
+A simple lightweight browser created in Visual Studio & mobile built from .NET MAUI.
 
 If your windows antivirus detects the browser as a virus, it is false positive.
 
