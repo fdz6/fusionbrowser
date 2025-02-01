@@ -1,5 +1,5 @@
-# Fusion Browser
-A simple lightweight browser created in Visual Studio.
+# LithiumX Browser (formerly Fusion Browser)
+A simple lightweight browser created in Visual Studio: WinForms.
 
 If your antivirus detects the browser as a virus, it is false positive.
 
